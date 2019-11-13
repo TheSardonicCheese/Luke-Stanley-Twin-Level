@@ -1,0 +1,4 @@
+Elevator
+Teleporter Done
+Jump Pad 50%
+Portal (see through)
